@@ -1,0 +1,30 @@
+.titleContainer {
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+
+
+}
+
+
+
+.title {
+    background-color: rgb(13, 202, 240);
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#todo-list {
+    /* background-color: rgb(166, 147, 230); */
+    box-shadow: 10px;
+    padding: 10px;
+}
+
+.todoContainer {
+    width: 400px;
+}
